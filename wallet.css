@@ -1,0 +1,150 @@
+.btc{
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.inr{
+  opacity: 0.4;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.value{
+  font-weight: bold;
+  opacity :0.3;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left: 10px;
+}
+.row5{
+  display: flex;
+  justify-content: space-between;
+  
+  
+  
+}
+button{
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  background-color: #fad234;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.deposit{
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-right: 10px;
+}
+.buy{
+  background-color:#eaecef;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-left: 10px;
+}
+.main{
+  display :flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  opacity: 0.4;
+  font-weight: bold;
+  background-color:#eaecef;
+  padding: 20px;
+  border-radius: 0px 0px 25px 25px;
+  margin-top: 0px;
+  margin: -8px;
+  
+  
+  
+}
+hr{
+  height: 5px;
+  color:whitesmoke;
+  background-color:#eaecef;
+  border: 0px;
+
+ 
+  
+  
+}
+.row5{
+  font-weight: bold;
+}
+body{
+  border-radius: 30px;
+}
+
+
+img{
+  margin-top: 4px;
+  width: 50px;
+  border-radius: 50%;
+  position: absolute ;
+  
+  
+  
+}
+
+ .portfolio{
+  display:flex ;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  padding: 9px;
+  border-radius: 15px;
+  margin-bottom: 13px;
+  box-shadow: 3px 3px;
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-border-radius:25px;
+  -webkit-border-radius:20px;
+  
+  
+}
+.row{
+  margin-top: 7px;
+  font-weight: bold;
+  
+  margin-left: 65px;
+  margin-bottom: 7px;
+  margin-right:10px;
+  
+  
+}
+
+#pr{
+  font-size: 12px;
+  font-weight: bold;
+  opacity: 1;
+  color:black;
+}
+body{
+  font-family: 'Noto Sans Display', sans-serif;
+  
+}
+span{
+  opacity: 0.3;
+}
+ .c{
+   position: absolute;
+   margin-left: 110px;
+   margin-top: 29px;
+   color: #f5465d;
+   opacity: 0.7;
+  
+}
+.g{
+  
+  position: absolute;
+   margin-left: 120px;
+   margin-top: 29px;
+   color: #41b688;
+   
+   opacity: 0.7;
+}
+
+#d{
+ margin-left: 140px;
+}
+#e{
+  margin-left: 130px;
+}
